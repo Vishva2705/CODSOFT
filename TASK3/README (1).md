@@ -17,7 +17,7 @@ A stylish and fully functional calculator built using **HTML**, **CSS**, and **J
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the demo](https://yourusername.github.io/gradient-calculator/)  
+👉 [Click here to view the demo](https://vishva2705.github.io/CODSOFT/TASK3/)  
 *(Replace with your GitHub Pages link)*
 
 ## 📷 Screenshot
