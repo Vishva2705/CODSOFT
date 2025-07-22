@@ -1,4 +1,4 @@
-Quizo(Online Quiz Portal)
+Quiz(Online Quiz Portal)
 
 Javascript, HTML and CSS, Python.
 
