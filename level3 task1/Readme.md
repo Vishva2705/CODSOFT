@@ -27,14 +27,15 @@ A complete eCommerce web application developed using **PHP** and **MySQL**, desi
 
 ## 📸 Screenshots
 
-### 🖼️ Home Page
-![Home Page](https://github.com/Vishva2705/CODSOFT/blob/main/level3%20task1/WhatsApp%20Image%202025-07-23%20at%2022.23.16_3f537f9d.jpg?raw=true)
 
-### 🛒 Product Listings
-![Product Listings](https://github.com/Vishva2705/CODSOFT/blob/main/level3%20task1/WhatsApp%20Image%202025-07-23%20at%2022.23.16_c212e80c.jpg?raw=true)
+### 🛒 Add Product Page  
+![Add Product Page](https://github.com/Vishva2705/CODSOFT/blob/main/level3%20task1/WhatsApp%20Image%202025-07-23%20at%2022.23.16_3f537f9d.jpg?raw=true)
 
-### ✅ Cart and Checkout View
-![Cart and Checkout](https://github.com/Vishva2705/CODSOFT/blob/main/level3%20task1/WhatsApp%20Image%202025-07-23%20at%2022.23.16_665d62e1.jpg?raw=true)
+### 🔐 Login Page  
+![Login Page](https://github.com/Vishva2705/CODSOFT/blob/main/level3%20task1/WhatsApp%20Image%202025-07-23%20at%2022.23.16_c212e80c.jpg?raw=true)
+
+### 🏠 Home Page  
+![Home Page](https://github.com/Vishva2705/CODSOFT/blob/main/level3%20task1/WhatsApp%20Image%202025-07-23%20at%2022.23.16_665d62e1.jpg?raw=true)
 
 ---
 
